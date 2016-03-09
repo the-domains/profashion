@@ -1,0 +1,28 @@
+name: Profashion
+favicon: null
+layout_spectrum: 0.6452051249798387
+typography_spectrum: 0.7938247008714825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7119932877831161
+  lightness: 0.4211135907098651
+  saturation: 0.1792051368393004
+  rhythmicContrast: 0.6247467894572765
+purpose: []
